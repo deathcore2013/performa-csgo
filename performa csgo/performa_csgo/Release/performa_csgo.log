@@ -1,0 +1,50 @@
+﻿  data.cpp
+  shared.cpp
+  swap.cpp
+  input.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_translate.cpp
+  main.cpp
+  storage.cpp
+  engine.cpp
+  factory.cpp
+  netprop_manager.cpp
+  player_array.cpp
+  prediction.cpp
+  renderer.cpp
+  accuracy.cpp
+  aimbot.cpp
+  anim_state.cpp
+  lag_compensation.cpp
+  Компиляция...
+  menu.cpp
+  movement.cpp
+  gui.cpp
+  resolver.cpp
+  triggerbot.cpp
+  create_move.cpp
+  frame_stage_notify.cpp
+  netprop.cpp
+  present.cpp
+  render_view.cpp
+  reset.cpp
+  run_command.cpp
+  scene_end.cpp
+  core.cpp
+  qangle.cpp
+  vector.cpp
+  vector2d.cpp
+  vector4d.cpp
+  sdk.cpp
+  entity.cpp
+  Компиляция...
+  player.cpp
+  weapon.cpp
+  Создание кода
+  2545 of 2563 functions (99.3%) were compiled, the rest were copied from previous compilation.
+    75 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  performa_csgo.vcxproj -> C:\Users\dima 1338\Desktop\читы кс 1.6\performa csgo\Release\csgo.dll
